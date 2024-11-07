@@ -20,9 +20,9 @@ You can interact with the dashboard by exploring different filters and slicers (
 
 ## Files in this Repository
 
-- **`Dashboard`**: Folder containing the main Power BI file containing the sales dashboard.
-- **`DataSet`**: Folder containing an Excel file with the data used for the dashboard (contains sales, product, and customer information).
-- **`images/`**: Folder containing screenshots of the dashboard for demonstration purposes.
+- **`Dashboard`**: The main Power BI file containing the sales dashboard.
+- **`DataSet`**: An Excel file with the data used for the dashboard (contains sales, product, and customer information).
+- **`images/`**: Screenshot of the dashboard for demonstration purposes.
 
 ## Technologies Used
 
